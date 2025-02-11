@@ -1,0 +1,22 @@
+# Build results
+Build/
+Builds/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# OS-generated files
+.DS_Store
+
+# Unity specific
+Library/
+Temp/
+Obj/
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.swp
+
